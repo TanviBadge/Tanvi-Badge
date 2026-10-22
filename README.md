@@ -30,6 +30,8 @@
 ### ⚙️ Tools & Platforms
 `Git` • `GitHub` • `VS Code` • `Jupyter`
 
+---
+
 ## 📂 Featured Projects
 
 ### 🎓 Student Performance Prediction System
