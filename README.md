@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Tanvi Badge
 
-### 🎓 B.Tech CSE Student | 💻 Web Development & Machine Learning Enthusiast  | 🚀 Building AI Solutions for Real-World Problems
+### 🎓 B.Tech CSE Student | 💻 Web Development & Machine Learning Enthusiast  |  🚀 Building AI Solutions for Real-World Problems
 
 
 </div>
